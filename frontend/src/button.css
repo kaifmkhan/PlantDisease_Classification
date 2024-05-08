@@ -1,0 +1,7 @@
+.btn{
+    background-image: url(./pic1.jpg);
+    width: 190px;
+    height: 70px;
+    border-radius: 5px;
+    border: solid #fff;
+}
